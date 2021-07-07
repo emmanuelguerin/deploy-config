@@ -1,1 +1,4 @@
 color: green
+env-name: sandbox
+source_branch: master
+next_env: staging

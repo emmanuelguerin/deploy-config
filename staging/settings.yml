@@ -1,1 +1,4 @@
 color: orange
+env-name: staging
+source_branch: staging
+next_env: prod
